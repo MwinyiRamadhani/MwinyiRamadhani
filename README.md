@@ -1,9 +1,9 @@
 Hi 👋 My name is Mwinyi Ramadhani 
 ----------------------------------------------------------
 
-Ethical Hacking
+Cyber Security
 ---------------
-I love Cyber Security
+I love Ethical Hacking
 - 🌍  I'm based in Tanzania
 - ✉️  You can contact me at [mwinyiramadhani76@gmail.com](mailto:mwinyiramadhani76@gmail.com)
 - 👀 I’m interested in Ethical Hacking and Pentesting
